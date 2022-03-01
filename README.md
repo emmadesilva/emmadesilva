@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @caendesilva
 - 👀 I’m interested in coding, electronics, and making stuff
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently learning Laravel Package Development
+- 📫 Say hello at caen@desilva.se!
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
