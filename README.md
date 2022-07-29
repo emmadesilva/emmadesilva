@@ -7,7 +7,7 @@ Fullstack Web Developer
 With a background in freelance front-end development, nowadays I am mainly building open source apps with Laravel.
 
 * 🌍  I'm based in Sweden
-* 🖥️  See my portfolio at [Coming soon!](http://desilva.se)
+* 🖥️  See my portfolio at [Coming soon!](https://desilva.se)
 * ✉️  You can contact me at [caen@desilva.se](mailto:caen@desilva.se)
 * 🚀  I'm currently working on [HydePHP](http://hydephp.github.io/docs/)
 * 🧠  I'm learning Test Driven Development
@@ -51,4 +51,3 @@ src="https://img.shields.io/github/followers/caendesilva?logo=github&style=for-t
 
 <a href="https://www.buymeacoffee.com/caen"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
-My readme was created by the awesome https://www.profileme.dev/!
