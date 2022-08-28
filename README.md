@@ -10,9 +10,9 @@ With a background in freelance front-end development, nowadays I am mainly build
 * 🖥️  See my portfolio at [Coming soon!](https://desilva.se)
 * ✉️  You can contact me at [caen@desilva.se](mailto:caen@desilva.se)
 * 🚀  I'm currently working on [HydePHP](http://hydephp.github.io/docs/)
-* 🧠  I'm learning Test Driven Development
-* 🤝  I'm open to collaborating on Hyde and the Mutual Aid App
-* ⚡  I love learning, so if you see a mistake somewhere in my code, let me know!
+* 🧠  I'm love learning, and am currently learning FilamentPHP
+* 🤝  I'm open to collaborating on HydePHP and the Mutual Aid App
+* ⚡  I keep an open mind, if you see a mistake in my code, let me know, and send a PR!
 
 <a href="https://www.twitter.com/CodeWithCaen" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/CodeWithCaen?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
