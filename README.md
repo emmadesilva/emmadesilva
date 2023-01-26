@@ -13,8 +13,8 @@ With a background in freelance front-end development, nowadays I am mainly build
 * 🚀  I'm currently working on [HydePHP](http:s//hydephp.com)
 * 🧠  I'm love learning, and am currently learning FilamentPHP
 * 🤝  I'm open to collaborating on HydePHP and the Mutual Aid App
-* ⚡  I keep an open mind, if you see a mistake in my code, let me know, and send a PR!
-* 🎩  You probably know me as the creator of HydePHP
+* ⚡  I'm always open to constructive critisism. If you see a mistake in my code, let me know, and send a PR!
+* 🎩  You probably know me as the creator of HydePHP, the Laravel-based static site generator.
 
 <a href="https://www.twitter.com/CodeWithCaen" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/CodeWithCaen?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
