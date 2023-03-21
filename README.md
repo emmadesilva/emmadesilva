@@ -12,9 +12,9 @@ With a background in freelance front-end development, nowadays I am mainly build
 * ✉️  You can contact me at [caen@desilva.se](mailto:caen@desilva.se)
 * 🚀  I'm currently working on [HydePHP](http:s//hydephp.com)
 * 🧠  I'm love learning, and am currently learning FilamentPHP
-* 🤝  I'm open to collaborating on HydePHP and the Mutual Aid App
+* 🤝  I'm open to collaborating on [HydePHP](https://github.com/hydephp/hyde) and the [Mutual Aid App](https://github.com/caendesilva/mutual-aid-app)
 * ⚡  I'm always open to constructive critisism. If you see a mistake in my code, let me know, and send a PR!
-* 🎩  You probably know me as the creator of HydePHP, the Laravel-based static site generator.
+* 🎩  You probably know me as the creator of [HydePHP](https://github.com/hydephp/hyde), the Laravel-based static site generator.
 
 <a href="https://www.twitter.com/CodeWithCaen" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/CodeWithCaen?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
