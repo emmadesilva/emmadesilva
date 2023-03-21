@@ -11,7 +11,7 @@ With a background in freelance front-end development, nowadays I am mainly build
 * 🖥️  See my portfolio at [caen.desilva.se](https://caen.desilva.se)
 * ✉️  You can contact me at [caen@desilva.se](mailto:caen@desilva.se)
 * 🚀  I'm currently working on [HydePHP](http:s//hydephp.com)
-* 🧠  I'm love learning, and am currently learning FilamentPHP
+* 🧠  I'm love learning, and am currently learning how to create [Composite GitHub Actions](https://github.com/hydephp/action)
 * 🤝  I'm open to collaborating on [HydePHP](https://github.com/hydephp/hyde) and the [Mutual Aid App](https://github.com/caendesilva/mutual-aid-app)
 * ⚡  I'm always open to constructive critisism. If you see a mistake in my code, let me know, and send a PR!
 * 🎩  You probably know me as the creator of [HydePHP](https://github.com/hydephp/hyde), the Laravel-based static site generator.
