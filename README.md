@@ -1,11 +1,11 @@
 Hi 👋 My name is Caen De Silva
 ==============================
 
-Fullstack Web Developer & Software Engineer
--------------------------------------------
+Fullstack Web Developer, Software Engineer, & Avid Open Source Enthusiast
+-------------------------------------------------------------------------
 
 ### About me
-With a background in freelance front-end development, nowadays I am mainly building open source apps with Laravel. 
+With a background in freelance front-end development, nowadays I am mainly building open source apps with PHP and the Laravel ecosystem. 
 
 * 🌍  I'm based in Sweden
 * 🖥️  See my portfolio at [caen.desilva.se](https://caen.desilva.se)
