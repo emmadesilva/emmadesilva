@@ -23,7 +23,7 @@ src="https://img.shields.io/github/followers/caendesilva?logo=github&style=for-t
 
 ### Skills
 
-I've been creating websites for over seven years, about three of which are with PHP and two with Laravel. I favour object-oriented code, and I like working with a Git-based workflow. I've studied computer science and taken programming classes since I was a kid, equipping me with a solid foundation for becoming a self-taught developer able to quickly pick up new languages and frameworks.
+I've been creating websites for over seven years, about three of which are with PHP and two with Laravel. I favour object-oriented code, and I love working with a Git-based workflow. I've studied computer science and taken programming classes since I was a kid, equipping me with a solid foundation for becoming a self-taught developer able to quickly pick up new languages and frameworks.
 
 <p align="left">
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
