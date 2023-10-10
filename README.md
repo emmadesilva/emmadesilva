@@ -33,6 +33,8 @@ I've been creating websites for over eight years, about four of which are with P
 <a href="https://www.twitter.com/CodeWithCaen" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p>
 
+<!-- GITHUB ONLY START -->
+
 ### Badges
 
 <b>My GitHub Stats</b>
@@ -48,6 +50,9 @@ I've been creating websites for over eight years, about four of which are with P
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/caendesilva/mutual-aid-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=caendesilva&repo=mutual-aid-app&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+
+<!-- GITHUB ONLY END -->
 
 ### Support Me
 
