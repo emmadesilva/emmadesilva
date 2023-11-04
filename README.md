@@ -45,12 +45,13 @@ I've been creating websites for over eight years, about four of which are with P
 
 <a href="http://www.github.com/caendesilva"><img src="https://caen.desilva.se/dyn-img/github-commits-graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/caendesilva"><img src="https://caen.desilva.se/dyn-img/github-top-langs" alt="Top Languages" /></a>
+<!-- <a href="https://github.com/caendesilva"><img src="https://caen.desilva.se/dyn-img/github-top-langs" alt="Top Languages" /></a> -->
 
+<!--
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/caendesilva/mutual-aid-app" align="left"><img align="left" width="45%" src="https://caen.desilva.se/dyn-img/github-top-repos" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
+-->
 
 <!-- GITHUB ONLY END -->
 
