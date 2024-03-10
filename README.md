@@ -11,7 +11,7 @@ With a background in freelance front-end development, nowadays I am mainly build
 * 🌍  I'm based in Sweden 🇸🇪
 * 🖥️  See my portfolio at [caen.desilva.se](https://caen.desilva.se)
 * ✉️  You can contact me at [caen@desilva.se](mailto:caen@desilva.se)
-* 🚀  I'm currently working on [HydePHP](http:s//hydephp.com) and other fun experiments!
+* 🚀  I'm currently working on [HydePHP](https://hydephp.com) and other fun experiments!
 * 🧠  I'm love learning, and am currently learning how to create [Composite GitHub Actions](https://github.com/hydephp/action).
 * 🤝  I'm open to collaborating on [HydePHP](https://github.com/hydephp/hyde) and anything else I'm working on!
 * ⚡  I'm always open to constructive criticism. If you see a mistake in my code, let me know, and send a PR!
