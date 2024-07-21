@@ -9,11 +9,11 @@ Fullstack Web Developer, Software Engineer, & Avid Open Source Enthusiast
 With a background in freelance front-end development, nowadays I am mainly building open source apps with PHP and the Laravel ecosystem. For example, I created the static site generator [HydePHP](https://github.com/hydephp/hyde).
 
 * 🌍  I'm based in Sweden 🇸🇪
-* 🖥️  See my portfolio at [caen.desilva.se](https://caen.desilva.se)
-* ✉️  You can contact me at [caen@desilva.se](mailto:caen@desilva.se)
+* 🖥️  See my portfolio at [caen.desilva.se](https://caen.desilva.se) or my [GitHub profile](https://github.com/caendesilva).
+* ✉️  You can contact me at [caen@desilva.se](mailto:caen@desilva.se) or on Twitter/X [@CodeWithCaen](https://twitter.com/CodeWithCaen).
 * 🚀  I'm currently working on [HydePHP](https://hydephp.com) and other fun experiments!
-* 🧠  I love learning, and am currently learning how to create [Composite GitHub Actions](https://github.com/hydephp/action).
-* 🤝  I'm open to collaborating on [HydePHP](https://github.com/hydephp/hyde) and anything else I'm working on!
+* 🧠  I love learning, and am currently learning more about Applied Artificial Intelligence.
+* 🤝  I'd love collaborating on [HydePHP](https://github.com/hydephp/hyde) and anything else I'm working on!
 * ⚡  I'm always open to constructive criticism. If you see a mistake in my code, let me know, and send a PR!
 * 🎩  You probably know me as the creator of [HydePHP](https://github.com/hydephp/hyde), the Laravel-based static site generator.
 
@@ -24,7 +24,7 @@ src="https://img.shields.io/github/followers/caendesilva?logo=github&style=for-t
 
 ### Skills
 
-I've been creating websites for over eight years, about four of which are with PHP and three with Laravel. I favour object-oriented code, and I love working with a Git-based workflow. I've studied computer science and taken programming classes since I was young, equipping me with a solid foundation for becoming a self-taught developer able to quickly pick up new languages and frameworks.
+I've been creating websites for over nine years, about five of which are with PHP and three with Laravel. I favour object-oriented code, and I love working with a Git-based workflow. I've studied computer science and taken programming classes since I was young, equipping me with a solid foundation to quickly pick up new languages and frameworks, and to actually understand the code I'm writing.
 
 ### Socials
 
