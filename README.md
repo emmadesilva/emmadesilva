@@ -39,18 +39,17 @@ I've been creating websites for over nine years, about five of which are with PH
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/caendesilva"><img src="https://caen.desilva.se/dyn-img/github-stats" alt="GitHub Stats" /></a>
+<a href="http://www.github.com/caendesilva"><img src="https://cdn.desilva.se/dyn/readme-image-proxy.php?image=githubStats" alt="GitHub Stats" /></a>
 
-<a href="http://www.github.com/caendesilva"><img src="https://caen.desilva.se/dyn-img/github-streaks" alt="GitHub Streak" /></a>
+<a href="http://www.github.com/caendesilva"><img src="https://cdn.desilva.se/dyn/readme-image-proxy.php?image=githubStreaks" alt="GitHub Streak" /></a>
 
-<a href="http://www.github.com/caendesilva"><img src="https://caen.desilva.se/dyn-img/github-commits-graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/caendesilva"><img src="https://cdn.desilva.se/dyn/readme-image-proxy.php?image=githubCommitsGraph" alt="GitHub Commits Graph" /></a>
 
-<!-- <a href="https://github.com/caendesilva"><img src="https://caen.desilva.se/dyn-img/github-top-langs" alt="Top Languages" /></a> -->
+<!-- <a href="https://github.com/caendesilva"><img src="https://cdn.desilva.se/dyn/readme-image-proxy.php?image=githubTopLangs" alt="Top Languages" /></a> -->
 
 <!--
 <b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/caendesilva/mutual-aid-app" align="left"><img align="left" width="45%" src="https://caen.desilva.se/dyn-img/github-top-repos" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/caendesilva/mutual-aid-app" align="left"><img align="left" width="45%" src="https://cdn.desilva.se/dyn/readme-image-proxy.php?image=githubTopRepos" /></a></div><br /><br /><br /><br /><br /><br /><br />
 -->
 
 <!-- GITHUB ONLY END -->
