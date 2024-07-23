@@ -39,9 +39,11 @@ I've been creating websites for over nine years, about five of which are with PH
 
 <b>My GitHub Stats</b>
 
+<p>
 <a href="http://www.github.com/caendesilva"><img src="https://cdn.desilva.se/dyn/readme-image-proxy.php?image=githubStats" alt="GitHub Stats" /></a>
-
+  &nbsp;&nbsp;&nbsp;
 <a href="http://www.github.com/caendesilva"><img src="https://cdn.desilva.se/dyn/readme-image-proxy.php?image=githubStreaks" alt="GitHub Streak" /></a>
+</p>
 
 <a href="http://www.github.com/caendesilva"><img src="https://cdn.desilva.se/dyn/readme-image-proxy.php?image=githubCommitsGraph" alt="GitHub Commits Graph" /></a>
 
