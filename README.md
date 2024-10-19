@@ -6,7 +6,7 @@ Fullstack Web Developer, Software Engineer, & Avid Open Source Enthusiast
 
 ### About me
 
-With a background in freelance front-end development, nowadays I am mainly building open source apps with PHP and the Laravel ecosystem. For example, I created the static site generator [HydePHP](https://github.com/hydephp/hyde).
+With a background in freelance front-end development, nowadays I am mainly building open source apps with PHP and the Laravel ecosystem. Most notably, I created the Laravel-based static site generator [HydePHP](https://github.com/hydephp/hyde).
 
 * 🌍  I'm based in Sweden 🇸🇪
 * 🖥️  See my portfolio at [caen.desilva.se](https://caen.desilva.se) or my [GitHub profile](https://github.com/caendesilva).
