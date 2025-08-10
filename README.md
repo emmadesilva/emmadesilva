@@ -1,4 +1,4 @@
-Hi 👋 My name is Caen De Silva
+Hi 👋 My name is Emma De Silva (prev. Caen)
 ==============================
 
 Fullstack Web Developer, Software Engineer, & Avid Open Source Enthusiast
