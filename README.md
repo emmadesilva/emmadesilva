@@ -17,10 +17,11 @@ With a background in freelance front-end development, nowadays I am mainly build
 * ⚡  I'm always open to constructive criticism. If you see a mistake in my code, let me know, and send a PR!
 * 🎩  You probably know me as the creator of [HydePHP](https://github.com/hydephp/hyde), the Laravel-based static site generator.
 
+<!-- 
 <a href="https://www.twitter.com/EmmaDSCodes" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgit.desilva.se%2Fstats%2Fdata.json&query=%24.twitter.followers&style=for-the-badge&logo=twitter&label=FOLLOW%20%40EmmaDSCodes&labelColor=1c1917&color=3382ed"
 /></a><a href="https://www.github.com/emmadesilva" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/emmadesilva?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/emmadesilva?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a> -->
 
 ### Skills
 
