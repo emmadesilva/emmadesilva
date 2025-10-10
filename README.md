@@ -1,4 +1,4 @@
-Hi 👋 My name is Emma De Silva (prev. emma)
+Hi 👋 My name is Emma De Silva
 ==============================
 
 Fullstack Web Developer, Software Engineer, & Avid Open Source Enthusiast
